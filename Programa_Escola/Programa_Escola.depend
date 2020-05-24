@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1570640686 source:e:\meus_programas\programa_escola\programa_escola\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<fstream>
+	<fstream>
+	<dirent.h>
+	<cstdlib>
+	<string>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<vector>
+	<stdio.h>
+	<direct.h>
+	<unistd.h>
+	<iostream>
+	<dirent.h>
+	<cstdlib>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	"turma.h"
+	"nota.h"
+	"escola.h"
+
+1569433398 source:e:\meus_programas\programa_escola\programa_escola\src\prova.cpp
+	"prova.h"
+
+1569557372 e:\meus_programas\programa_escola\programa_escola\include\prova.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1569433594 source:e:\meus_programas\programa_escola\programa_escola\src\aluno.cpp
+	"aluno.h"
+
+1570618590 e:\meus_programas\programa_escola\programa_escola\include\aluno.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1569507266 source:e:\meus_programas\programa_escola\programa_escola\src\nota.cpp
+	"nota.h"
+
+1569507266 e:\meus_programas\programa_escola\programa_escola\include\nota.h
+	"prova.h"
+	"aluno.h"
+
+1570640686 source:d:\meus_programas\programa_escola\programa_escola\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<fstream>
+	<fstream>
+	<dirent.h>
+	<cstdlib>
+	<string>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<vector>
+	<stdio.h>
+	<direct.h>
+	<unistd.h>
+	<iostream>
+	<dirent.h>
+	<cstdlib>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	"turma.h"
+	"nota.h"
+	"escola.h"
+
+1569433594 source:d:\meus_programas\programa_escola\programa_escola\src\aluno.cpp
+	"aluno.h"
+
+1570618590 d:\meus_programas\programa_escola\programa_escola\include\aluno.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1569507266 source:d:\meus_programas\programa_escola\programa_escola\src\nota.cpp
+	"nota.h"
+
+1569507266 d:\meus_programas\programa_escola\programa_escola\include\nota.h
+	"prova.h"
+	"aluno.h"
+
+1569557372 d:\meus_programas\programa_escola\programa_escola\include\prova.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1569433398 source:d:\meus_programas\programa_escola\programa_escola\src\prova.cpp
+	"prova.h"
+
+1570639344 source:d:\meus_programas\programa_escola\programa_escola\src\turma.cpp
+	"turma.h"
+	<iostream>
+	<vector>
+
+1569565828 d:\meus_programas\programa_escola\programa_escola\include\turma.h
+	<string>
+	<iomanip>
+	<vector>
+	"aluno.h"
+	"prova.h"
+	"nota.h"
+
+1569522892 d:\meus_programas\programa_escola\programa_escola\include\escola.h
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	"turma.h"
+	"aluno.h"
+
+1569524544 source:d:\meus_programas\programa_escola\programa_escola\src\escola.cpp
+	"escola.h"
+	"turma.h"
+	"aluno.h"
+	<vector>
+
+1569524544 source:e:\meus_programas\programa_escola\programa_escola\src\escola.cpp
+	"escola.h"
+	"turma.h"
+	"aluno.h"
+	<vector>
+
+1569522892 e:\meus_programas\programa_escola\programa_escola\include\escola.h
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	"turma.h"
+	"aluno.h"
+
+1569565828 e:\meus_programas\programa_escola\programa_escola\include\turma.h
+	<string>
+	<iomanip>
+	<vector>
+	"aluno.h"
+	"prova.h"
+	"nota.h"
+
+1570639344 source:e:\meus_programas\programa_escola\programa_escola\src\turma.cpp
+	"turma.h"
+	<iostream>
+	<vector>
+
+1569601342 source:f:\meus_programas\programa_escola\programa_escola\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	"turma.h"
+	"nota.h"
+	"escola.h"
+
+1569565828 f:\meus_programas\programa_escola\programa_escola\include\turma.h
+	<string>
+	<iomanip>
+	<vector>
+	"aluno.h"
+	"prova.h"
+	"nota.h"
+
+1569498482 f:\meus_programas\programa_escola\programa_escola\include\aluno.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1569557372 f:\meus_programas\programa_escola\programa_escola\include\prova.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1569507266 f:\meus_programas\programa_escola\programa_escola\include\nota.h
+	"prova.h"
+	"aluno.h"
+
+1569522892 f:\meus_programas\programa_escola\programa_escola\include\escola.h
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	"turma.h"
+	"aluno.h"
+
+1569433594 source:f:\meus_programas\programa_escola\programa_escola\src\aluno.cpp
+	"aluno.h"
+
+1569524544 source:f:\meus_programas\programa_escola\programa_escola\src\escola.cpp
+	"escola.h"
+	"turma.h"
+	"aluno.h"
+	<vector>
+
+1569507266 source:f:\meus_programas\programa_escola\programa_escola\src\nota.cpp
+	"nota.h"
+
+1569433398 source:f:\meus_programas\programa_escola\programa_escola\src\prova.cpp
+	"prova.h"
+
+1569568378 source:f:\meus_programas\programa_escola\programa_escola\src\turma.cpp
+	"turma.h"
+	<iostream>
+	<vector>
+
